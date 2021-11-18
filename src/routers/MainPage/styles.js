@@ -21,3 +21,7 @@ export const SubBox = styled.div`
     background-color: blue;
   }
 `;
+
+export const ButtonBox = styled.div`
+  margin-bottom: 20px;
+`;
